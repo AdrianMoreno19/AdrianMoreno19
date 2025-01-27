@@ -34,8 +34,8 @@ Ganas de aprender y mejorar constantemente.
 Esta aplicacion se encarga de hacer una gestion de inscripcion de cursos para profesores
 **Tecnologías usadas:** [HTML, CSS, PHP]
 
-### [Aplicacion Envia Postales](#AdrianMoreno19/EnviaGmails)
-Esta aplicacion se encarga de hacer una gestion de inscripcion de cursos para profesores
+### [Aplicacion Envia Postales](#AdrianMoreno19/EnviaMails)
+
 **Tecnologías usadas:** [HTML, CSS, PHP]
 
 ---
