@@ -50,7 +50,7 @@ crear nuevos cursos, eliminar cursos
 ---
 
 ## 🌐 Encuéntrame en  
-- [Linkedin]([https://www.linkedin.com](https://www.linkedin.com/in/adrian-moreno-gomez/))
+- [Linkedin](https://www.linkedin.com/in/adrian-moreno-gomez/)
 - [Página Personal](https://www.adrianmorenogomez.es)
 
 ---
