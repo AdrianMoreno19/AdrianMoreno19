@@ -31,9 +31,12 @@ Ganas de aprender y mejorar constantemente.
 ## 🛠 Proyectos Destacados  
 
 ### [Aplicación de Inscripción en Cursos](#AdrianMoreno19/GestionCursosProfesores)
-Este proyecto se basa en una plataforma que permite inscribir profesores en cursos,
-crear nuevos cursos, eliminar cursos
-**Tecnologías usadas:** [HTML, CSS, PHP]  
+Esta aplicacion se encarga de hacer una gestion de inscripcion de cursos para profesores
+**Tecnologías usadas:** [HTML, CSS, PHP]
+
+### [Aplicacion Envia Postales](#AdrianMoreno19/EnviaGmails)
+Esta aplicacion se encarga de hacer una gestion de inscripcion de cursos para profesores
+**Tecnologías usadas:** [HTML, CSS, PHP]
 
 ---
 
